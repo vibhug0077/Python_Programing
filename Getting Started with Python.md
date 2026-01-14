@@ -149,3 +149,51 @@ Hello Python interpreter!
 * In VS Code: re-run `Python: Select Interpreter` and choose Python 3.
 * Windows “python not recognized”: reinstall with **Add Python to PATH** or use `py`.
 * * *
+* * *
+* * *
+
+# Make an account on GitHub
+
+1. Open **github.com**
+2. Click **Sign up**
+3. Enter: **email → password → username**
+4. Verify your email (GitHub will send a verification mail)
+5. After login, keep your **username** noted (you’ll use it later in VS Code)
+
+---
+
+## 2) Create a repo for “Python Programming”
+
+1. In GitHub (top-right), click **+** → **New repository**
+2. Fill:
+
+   * **Repository name:** `python-programming` (or `Python-Programming`)
+   * **Description (optional):** “Python Programming practice and notes”
+   * Choose **Public** (or **Private**)
+3. Tick:
+
+   * ✅ **Add a README file**
+   * (Optional) ✅ **Add .gitignore** → choose **Python**
+4. Click **Create repository**
+
+---
+
+## 3) Download GitHub Desktop
+
+1. Open **desktop.github.com**
+2. Download and install **GitHub Desktop**
+3. Open GitHub Desktop → **Sign in to GitHub.com**
+4. Complete the browser login/authorization, then return to GitHub Desktop
+
+---
+
+## 4) Link VS Code to GitHub using web authorization
+
+1. Open **VS Code**
+2. Press **Ctrl + Shift + P**
+3. Type and select: **GitHub: Sign in**
+4. Choose **Sign in with browser**
+5. Your browser opens GitHub → click **Authorize** (approve VS Code access)
+6. After success, VS Code will show you are signed in (Accounts icon/profile in the bottom-left or top-right depending on layout)
+
+That’s it—your GitHub account is now connected to VS Code via web authorization, and your “Python Programming” repo is ready to use.
