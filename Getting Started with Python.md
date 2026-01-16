@@ -1,4 +1,4 @@
-# Chapter 1 — Getting Started with Python
+# Chapter 2 — Getting Started with Python
 
 ## Step 1: Write your first program (Hello World)
 1. Create a folder named `python_work`.
