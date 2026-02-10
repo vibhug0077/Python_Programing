@@ -1,3 +1,3 @@
-a = 30
-b=40
-print(a+b)
+# Uncomment and run this cell in notebook:
+name = input("Enter your name: ")
+print("Hello", name)
