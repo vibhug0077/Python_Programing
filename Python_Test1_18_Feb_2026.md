@@ -361,7 +361,7 @@ def parse(lines):
 [
 "John,25,90",
 "John,25,80",
-"Anna,130,70",
+"Anna,130,70", 
 "Bob,20,105"
 ]
 ```
